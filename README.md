@@ -1,5 +1,7 @@
 # Go Clacks Overhead
 
+![go-workflow-status](https://github.com/lawnchaiir/go-clacks-overhead/actions/workflows/go.yml/badge.svg?branch=main)
+
 This repo is just intended to show off a few examples of how to hook up an X-Clacks-Overhead header for a Go server. 
 
 ---
